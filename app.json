@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "7a743a3b-ba6a-42ad-9f0c-34bff7f9a9a3"
+      }
+    },
+    "android": {
+      "package": "com.danieldevbr.meuapp"
+    }
+  }
+}
